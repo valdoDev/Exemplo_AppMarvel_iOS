@@ -1,7 +1,7 @@
 # AppMarvel iOS
 App criado utlizando as API's disponibilizadas pelo <b><a href="https://developer.marvel.com/docs#!/public/getCreatorCollection_get_0">Portal Marvel Developer</a></b>
 
-## Status: <b> Em Desenvolvimento </b>
+## Status: <b> Em Desenvolvimento v1 </b>
 
 ## Objetivo
 
